@@ -5408,7 +5408,16 @@ INSERT INTO `ethnicity` (`ethnicity_id`, `ethnicity_name`, `sort_order`, `last_u
 (8, 'Middle Eastern', 8, '0000-00-00 00:00:00', NULL),
 (9, 'African', 9, '0000-00-00 00:00:00', NULL),
 (10, 'Mixed Race', 10, '0000-00-00 00:00:00', NULL),
-(11, 'Other', 11, '0000-00-00 00:00:00', NULL);
+(11, 'Other', 11, '0000-00-00 00:00:00', NULL),
+(12, 'Ugandan', 12, '0000-00-00 00:00:00', NULL),
+(13, 'East African', 13, '0000-00-00 00:00:00', NULL)
+(14, 'West African', 14, '0000-00-00 00:00:00', NULL),
+(15, 'South African', 15, '0000-00-00 00:00:00', NULL),
+(16, 'North African', 16, '0000-00-00 00:00:00', NULL),
+(17, 'Central African', 17, '0000-00-00 00:00:00', NULL),
+(18, 'Southeast Asian', 18, '0000-00-00 00:00:00', NULL),
+(19, 'South Asian', 19, '0000-00-00 00:00:00', NULL),
+(20, 'East Asian', 20, '0000-00-00 00:00:00', NULL);
 
 
 
